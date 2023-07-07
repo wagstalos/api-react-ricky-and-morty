@@ -1,5 +1,8 @@
 # Ricky Morty
 
+
+# api
+https://rickandmortyapi.com/documentation
 ## Descrição
 Ricky Morty é um projeto desenvolvido usando React.js que consome a API do desenho animado "Rick and Morty". Ele exibe informações sobre personagens da série.
 
